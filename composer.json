@@ -1,0 +1,14 @@
+{
+    "name": "marc/webshop",
+    "type": "project",
+    "authors": [
+        {
+            "name": "PerhapsSomeone",
+            "email": "ma2003br@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}

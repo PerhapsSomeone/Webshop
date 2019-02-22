@@ -1,0 +1,4 @@
+src/.env
+vendor/*
+.idea/*
+composer.lock
